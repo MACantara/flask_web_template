@@ -34,10 +34,11 @@ flask_web_template/
 │   └── templates/          # HTML templates
 │       ├── base.html
 │       └── index.html
-│
+├── .gitignore              # Ignore files
+├── LICENSE                 # License information
 ├── config.py               # Configuration management
 ├── run.py                  # Application entry point
-└── requirements.txt
+└── requirements.txt        # Project dependencies
 ```
 
 # Project dependencies
